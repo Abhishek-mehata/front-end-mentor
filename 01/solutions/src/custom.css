@@ -1,0 +1,19 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%);
+}
+
+.w {
+    color: hsla(0, 0%, 100%, 0.646);
+}
+
+.soft-blue {
+    color: hsl(215, 51%, 70%);
+}
+
+.cyan {
+    color: hsl(178, 100%, 50%);
+}
